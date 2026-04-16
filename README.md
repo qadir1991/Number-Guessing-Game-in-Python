@@ -52,4 +52,4 @@ Run the program:
 python game.py
 
 💻 Example Output
-![output images]()
+![output images](https://github.com/qadir1991/Number-Guessing-Game-in-Python/blob/37580c1b762687fbdf4e7307cea2a5bc91be09b6/Screenshot%20(121).png)
