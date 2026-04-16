@@ -20,6 +20,7 @@ Conditional statements
 User input handling
 
 Basic Python logic
+
 🚀 Features
 
 Random number generation
