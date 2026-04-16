@@ -41,7 +41,7 @@ Python 3.x
 
 Clone this repository:
 
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/qadir1991/Number-Guessing-Game-in-Python.git
 
 Navigate to the project folder:
 
